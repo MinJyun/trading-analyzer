@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TradingAnalyzer.Api/TradingAnalyzer.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TradingAnalyzer.Tests/TradingAnalyzer.Tests.csproj" />
+  </Folder>
+</Solution>
